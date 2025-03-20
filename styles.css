@@ -12,3 +12,10 @@ body{
 h1, h2{
 	text-align:center;
 }
+a{
+	text-decoration-line:none;
+}
+
+li{
+	list-style-type:none;
+}
